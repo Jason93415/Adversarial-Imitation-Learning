@@ -8,6 +8,8 @@ or you can get the \data\baseline from the [openai\baseline](https://github.com/
 and the \data\ikostrikov frome the [ikostrikov/pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail),
 or you can produce the demonstrations using our [PPO_pytorch](https://github.com/mingzhangPHD/RL-trip-pytorch)
 
+or one can download from the link [Mujoco demonstrates for Imitation learning](https://data.mendeley.com/datasets/w7m95wwrb5/1).
+
 Then, you can run wdail_ant.py, wdail_halfcheetah...in ppo_wdail and ppo_wdail_BL.
 
 Finally, you can get the results.
